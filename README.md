@@ -21,6 +21,7 @@
 AI
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
+|Class Up : <br>스터디 관리를 위한 출석 관리 시스템| FastAPI, MySQL | ![Team](https://img.shields.io/badge/Team-red) | 2023/12/14 ~ ing| [Repo](https://github.com/META-ClassUp/Class-Up_attendance)|
 |R-집 : <br>도면 인식을 이용한 인테리어 플랫폼| OpenCV, bpy(Blender as a Python Module), Image generator(PixToPix) | ![Team](https://img.shields.io/badge/Team-red) | 2023/10/06 ~ 2023/11/30| [Repo](https://github.com/R-zipp/AI)|
 
 
