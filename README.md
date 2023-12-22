@@ -22,7 +22,9 @@ AI
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |Class Up : <br>스터디 관리를 위한 출석 관리 시스템| FastAPI, MySQL | ![Team](https://img.shields.io/badge/Team-red) | 2023/12/14 ~ ing| [Repo](https://github.com/META-ClassUp/Class-Up_attendance)|
-|R-집 : <br>도면 인식을 이용한 인테리어 플랫폼| OpenCV, bpy(Blender as a Python Module), Image generator(PixToPix) | ![Team](https://img.shields.io/badge/Team-red) | 2023/10/06 ~ 2023/11/30| [Repo](https://github.com/R-zipp/AI)|
+|R-집 : <br>도면 인식을 이용한 인테리어 플랫폼| OpenCV, bpy(Blender as a Python Module), Image Generator(PixToPix), Model Serving (FastAPI) | ![Team](https://img.shields.io/badge/Team-red) | 2023/10/06 ~ 2023/11/30| [Repo](https://github.com/R-zipp/AI)|
+|Crime Capture TV : <br>무인점포 이상행동 탐지 시스템| Object Detection (yolov8), Video Classification(VideoMAE), Model Serving (FastAPI) | ![Team](https://img.shields.io/badge/Team-red) | 2023/09/04 ~ 2023/09/27| [Repo](https://github.com/crime-capture-tv/AI-server)|
+|어린이 대화 친구 쥬쥬 : <br>어린이들을 위한 대화형 챗봇 서비스| LLM(GPT-4/Langchain, KoGPT-2), Language Model(BERT), STT, WaveToLib ,Model Serving (Flask/FastAPI) | ![Team](https://img.shields.io/badge/Team-red) | 2023/09/04 ~ 2023/09/27| [Repo](https://github.com/woojooc/JUJUbot)|
 
 
 ## 📞 Contact
