@@ -1,22 +1,48 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=47A4FA&text=Hello!%20I%27m%20Minkyo&fontSize=50&fontAlign=50&fontAlignY=35)
-## 👋 Introduction 
- 
-#### &emsp; Hi, I'm Min Kyo Jeong!
-#### &emsp; I'm looking for a job as an AI Engineer!
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Minkyo%20Jeong&fontSize=70)
 
+<div align="center">
+
+## 👋 Introduction 
+<div>
+    <br>
+   Hi, I'm Min Kyo Jeong!
+    <br>
+   I'm looking for a job as a Backend Developer, DevOps Engineer🛠 <br>
+</div>
+
+## 📆 Experience
+| period | content |
+| ------- | ------- |
+| 2017.03 - 2023.08 | Konkuk University, Physics |
+| 2023.08 - 2023.11 | Metaverse Academy 2nd - AI |
+| 2024.03 - 2024.09 | Shinhan DS Financial SW Academy 3nd |
 
 ## 🛠 Tech Stack
-#### &emsp; - Languages
-#### &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-#### &emsp; - Framework
-#### &emsp; <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/langchain-EC1C24?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/yolov8-00FFFF?style=for-the-badge&logo=yolo&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/fastAPI-009688?style=for-the-badge&logo=fastAPI&logoColor=white">
-#### &emsp; - Database
-#### &emsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-
-#### &emsp; - Colaboration Tool
-#### &emsp; <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-
-[![YangxGeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minkyodev&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+</div>
+<div>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+</div>
+<div>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</div>
+<div>
+    Techs that I've used at least once<br>
+   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Tekton-F46A2A?style=flat-square&logo=Tekton&logoColor=white"/>
+</div>
 
 ## 📃 Project
 
@@ -26,13 +52,3 @@
 |R-집 : <br>도면 인식을 이용한 인테리어 플랫폼| OpenCV, bpy(Blender as a Python Module), Image Generator(PixToPix, Stable Diffusion SDXL), Model Serving (FastAPI) | ![Team](https://img.shields.io/badge/Team-red) | 2023/10/06 ~ 2023/11/30| [Repo](https://github.com/MinkyoJeong1/R-zipp)|
 |Crime Capture TV : <br>무인점포 이상행동 탐지 시스템| Object Detection (yolov8), Video Classification(VideoMAE), Model Serving (FastAPI) | ![Team](https://img.shields.io/badge/Team-red) | 2023/09/04 ~ 2023/09/27| [Repo](https://github.com/MinkyoJeong1/Crime-capture-tv)|
 |어린이 대화 친구 쥬쥬 : <br>어린이들을 위한 대화형 챗봇 서비스| LLM(GPT-4/Langchain, KoGPT-2), Language Model(BERT), TTS(VITS, RVC), WaveToLib ,Model Serving (Flask/FastAPI) | ![Team](https://img.shields.io/badge/Team-red) | 2023/08/07 ~ 2023/08/28| [Repo](https://github.com/MinkyoJeong1/JUJU)|
-
-
-## 📞 Contact
-#### &emsp; 🔹 Phone Number 👉 +82) 010-7304-4593
-#### &emsp; 🔹 E-mail 👉 isakin.tyrfing@gmail.com 
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=200&color=47A4FA&text=Thank%20You!&fontSize=50&fontcolor=000000&fontAlign=50&fontAlignY=70)
-
-
-
