@@ -47,7 +47,7 @@
 
 |Project Name|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|새롬터 : <br>친환경 리사이클링 쇼핑몰 | JAVA, Oracle | ![Team](https://img.shields.io/badge/Team-red) | 2023/05/27 ~ 2024/07/09 | [Repo](https://github.com/MinkyoDev/saerom-teo)|
+|새롬터 : <br>친환경 리사이클링 쇼핑몰 | Frontend(HTMl, CSS, JS), Web Application(Spring), Database(MySQL) | ![Team](https://img.shields.io/badge/Team-red) | 2023/05/27 ~ 2024/07/09 | [Repo](https://github.com/MinkyoDev/saerom-teo)|
 |ECU : <br>Efficient Chatbot Use | JAVA, Oracle | ![Solo](https://img.shields.io/badge/Solo-blue) | 2023/04/08 ~ 2024/04/15 | [Repo](https://github.com/MinkyoDev/efficient-chatbot-use)|
 |Class Up : <br>스터디 관리를 위한 출석 관리 시스템 | FastAPI, MySQL | ![Team](https://img.shields.io/badge/Team-red) | 2023/12/14 ~ 2024/01/16 | [Repo](https://github.com/MinkyoJeong1/Class-Up)|
 |R-집 : <br>도면 인식을 이용한 인테리어 플랫폼 | OpenCV, bpy(Blender as a Python Module), Image Generator(PixToPix, Stable Diffusion SDXL), Model Serving (FastAPI) | ![Team](https://img.shields.io/badge/Team-red) | 2023/10/06 ~ 2023/11/30 | [Repo](https://github.com/MinkyoJeong1/R-zipp)|
