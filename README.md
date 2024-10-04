@@ -46,7 +46,7 @@
 
 |Project Name|Project Description|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 똑똑 | 고령자를 위한 음성 기반 대화형 금융 지원 플랫폼 | Frontend(React, PWA), Web Application(Spring boot), Database(PostgreSQL) | ![Team](https://img.shields.io/badge/Team-red) | 2023/07/24 ~ 2024/09/11 | [Repo👉](https://github.com/Knock-and-knock/backend)|
+| 똑똑 | 고령자를 위한 음성 기반 대화형 금융 지원 플랫폼 | Frontend(React, PWA), Web Application(Spring boot), Database(PostgreSQL) | ![Team](https://img.shields.io/badge/Team-red) | 2023/07/24 ~ 2024/09/11 | [Repo👉](https://github.com/MinkyoDev/knock-knock)|
 | 새롬터 | 친환경 리사이클링 쇼핑몰 | Frontend(HTMl, CSS, JS), Web Application(Spring), Database(MySQL) | ![Team](https://img.shields.io/badge/Team-red) | 2023/05/27 ~ 2024/07/09 | [Repo👉](https://github.com/MinkyoDev/saerom-teo)|
 | ECU | LLM모델의 효율적인 운영을 위한 백엔드 기능 개발 | JAVA, Oracle | ![Solo](https://img.shields.io/badge/Solo-blue) | 2023/04/08 ~ 2024/04/15 | [Repo👉](https://github.com/MinkyoDev/efficient-chatbot-use)|
 | Class Up | 스터디를 위한 출석 관리 시스템 | Frontend(HTMl, CSS, JS), Web Application(FastAPI), Database(MySQL) | ![Team](https://img.shields.io/badge/Team-red) | 2023/12/14 ~ 2024/01/16 | [Repo👉](https://github.com/MinkyoJeong1/Class-Up)|
