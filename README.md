@@ -15,7 +15,7 @@
 | ------- | ------- |
 | 2017.03 - 2023.08 | Konkuk University, Physics |
 | 2023.08 - 2023.11 | Metaverse Academy 2nd - AI |
-| 2024.03 - 2024.09 | Shinhan DS Financial SW Academy 3nd |
+| 2024.03 - 2024.09 | Shinhan DS Financial SW Academy 3rd |
 
 ## 🛠 Tech Stack
 <div>
