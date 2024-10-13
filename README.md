@@ -55,4 +55,3 @@
 | 어린이 대화 친구 쥬쥬 | 어린이들을 위한 대화형 챗봇 서비스 | LLM(GPT-4/Langchain, KoGPT-2), Language Model(BERT), TTS(VITS, RVC), WaveToLib ,Model Serving (Flask/FastAPI) | ![Team](https://img.shields.io/badge/Team-red) | 2023/08/07 ~ 2023/08/28 | [Repo👉](https://github.com/MinkyoJeong1/JUJU)|
 
 
-
