@@ -54,4 +54,3 @@
 | Crime Capture TV | 무인점포 이상행동 탐지 시스템 | Object Detection (yolov8), Video Classification(VideoMAE), Model Serving (FastAPI) | ![Team](https://img.shields.io/badge/Team-red) | 2023/09/04 ~ 2023/09/27 | [Repo👉](https://github.com/MinkyoJeong1/Crime-capture-tv)|
 | 어린이 대화 친구 쥬쥬 | 어린이들을 위한 대화형 챗봇 서비스 | LLM(GPT-4/Langchain, KoGPT-2), Language Model(BERT), TTS(VITS, RVC), WaveToLib ,Model Serving (Flask/FastAPI) | ![Team](https://img.shields.io/badge/Team-red) | 2023/08/07 ~ 2023/08/28 | [Repo👉](https://github.com/MinkyoJeong1/JUJU)|
 
-
