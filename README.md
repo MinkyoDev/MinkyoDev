@@ -32,13 +32,16 @@
 </div>
 <div>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
+</div>
+<div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 <div>
     Techs that I've used at least once<br>
    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
    <img src="https://img.shields.io/badge/Tekton-F46A2A?style=flat-square&logo=Tekton&logoColor=white"/>
 </div>
 
@@ -46,6 +49,7 @@
 
 |Project Name|Project Description|Tech Stack|Team|Period|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| EMOG! | AI 캐릭터와 실시간 대화를 위한 채팅 어플리케이션 | Frontend(Android Studio), Backend(FastAPI), Database(PostgreSQL) | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/29 ~ ing | [Repo👉](https://github.com/Emozis/server)|
 | 똑똑 | 고령자를 위한 음성 기반 대화형 금융 지원 플랫폼 | Frontend(React, PWA), Web Application(Spring boot), Database(PostgreSQL) | ![Team](https://img.shields.io/badge/Team-red) | 2024/07/24 ~ 2024/09/11 | [Repo👉](https://github.com/MinkyoDev/knock-knock)|
 | 새롬터 | 친환경 리사이클링 쇼핑몰 | Frontend(HTMl, CSS, JS), Web Application(Spring), Database(MySQL) | ![Team](https://img.shields.io/badge/Team-red) | 2024/05/27 ~ 2024/07/09 | [Repo👉](https://github.com/MinkyoDev/saerom-teo)|
 | ECU | LLM모델의 효율적인 운영을 위한 백엔드 기능 개발 | JAVA, Oracle | ![Solo](https://img.shields.io/badge/Solo-blue) | 2024/04/08 ~ 2024/04/15 | [Repo👉](https://github.com/MinkyoDev/efficient-chatbot-use)|
