@@ -43,6 +43,7 @@
     Techs that I've used at least once<br>
    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
    <img src="https://img.shields.io/badge/Tekton-F46A2A?style=flat-square&logo=Tekton&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white"/>
 </div>
 
 ## 📃 Project
